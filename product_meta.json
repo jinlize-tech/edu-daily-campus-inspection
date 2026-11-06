@@ -1,0 +1,24 @@
+{
+  "number": 91,
+  "product_id": "JLZ-EDU-SK-073",
+  "chinese_name": "校区日常巡检",
+  "english_name": "Daily Campus Inspection",
+  "repository_name": "edu-daily-campus-inspection",
+  "product_type": "Skill",
+  "category": "08 校区标准化与多校区管理中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-daily-campus-inspection-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "校区类型、巡检范围、现场标准、检查周期、照片/记录要求和整改责任人",
+  "main_output": "巡检表、路线、检查项、问题分级、整改单和复查计划",
+  "package_entries": [
+    "edu-daily-campus-inspection/SKILL.md",
+    "edu-daily-campus-inspection/references/DOMAIN_GUIDE.md",
+    "edu-daily-campus-inspection/references/EXAMPLES.md",
+    "edu-daily-campus-inspection/templates/OUTPUT_TEMPLATE.md"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-SK-073",
+  "repository_name": "edu-daily-campus-inspection",
+  "product_type": "Skill",
+  "version": "1.0.0",
+  "package_path": "dist/edu-daily-campus-inspection-v1.0.0.zip",
+  "sha256": "7F8CE567CD6005A59E6189F384816FF7CC34E6CE21311CB180434FB754EEED49",
+  "bytes": 4870,
+  "entries": [
+    "edu-daily-campus-inspection/SKILL.md",
+    "edu-daily-campus-inspection/references/DOMAIN_GUIDE.md",
+    "edu-daily-campus-inspection/references/EXAMPLES.md",
+    "edu-daily-campus-inspection/templates/OUTPUT_TEMPLATE.md"
+  ],
+  "built_at": "2026-11-06T22:46:09.7867631+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}
