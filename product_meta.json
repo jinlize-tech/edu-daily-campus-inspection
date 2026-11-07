@@ -6,19 +6,38 @@
   "repository_name": "edu-daily-campus-inspection",
   "product_type": "Skill",
   "category": "08 校区标准化与多校区管理中心",
-  "version": "1.0.0",
-  "status": "PACKAGE_READY",
-  "workbuddy_validation": "NOT_VERIFIED",
+  "version": "1.0.1",
+  "previous_version": "1.0.0",
+  "g5_status": "G5_STRENGTHENED",
+  "status": "G9_PRE_RELEASE_ACCEPTED",
+  "package_state": "GITHUB_PACKAGE_PRE_RELEASE_READY",
+  "runtime_status": "NOT_RUNTIME_VERIFIED",
+  "workbuddy_validation": "WORKBUDDY_VALIDATION_NOT_IN_SCOPE",
   "license": "Apache-2.0",
   "baseline_tag": "education-product-baseline-v1.0.0",
-  "package_path": "dist/edu-daily-campus-inspection-v1.0.0.zip",
+  "baseline_commit": "faee3e27156c00aa1caad181c5532a8a1b12d1ac",
+  "package_path": "dist/edu-daily-campus-inspection-v1.0.1.zip",
+  "previous_package_path": "dist/edu-daily-campus-inspection-v1.0.0.zip",
+  "previous_package_sha256": "7F8CE567CD6005A59E6189F384816FF7CC34E6CE21311CB180434FB754EEED49",
   "calculator": false,
   "core_input": "校区类型、巡检范围、现场标准、检查周期、照片/记录要求和整改责任人",
   "main_output": "巡检表、路线、检查项、问题分级、整改单和复查计划",
+  "main_output_fields": [
+    "巡检表",
+    "路线",
+    "检查项",
+    "问题分级",
+    "整改单和复查计划"
+  ],
   "package_entries": [
     "edu-daily-campus-inspection/SKILL.md",
     "edu-daily-campus-inspection/references/DOMAIN_GUIDE.md",
     "edu-daily-campus-inspection/references/EXAMPLES.md",
-    "edu-daily-campus-inspection/templates/OUTPUT_TEMPLATE.md"
+    "edu-daily-campus-inspection/templates/OUTPUT_TEMPLATE.md",
+    "edu-daily-campus-inspection/README.md",
+    "edu-daily-campus-inspection/USAGE.md",
+    "edu-daily-campus-inspection/LICENSE",
+    "edu-daily-campus-inspection/THIRD_PARTY_NOTICES.md",
+    "edu-daily-campus-inspection/scripts/validate_input.js"
   ]
 }
